@@ -1,0 +1,15 @@
+C:\Users\crash\source\repos\ИЗВП4\bin\Debug\ИЗВП4.exe.config
+C:\Users\crash\source\repos\ИЗВП4\bin\Debug\ИЗВП4.exe
+C:\Users\crash\source\repos\ИЗВП4\bin\Debug\ИЗВП4.pdb
+C:\Users\crash\source\repos\ИЗВП4\obj\Debug\ИЗВП4.csprojAssemblyReference.cache
+C:\Users\crash\source\repos\ИЗВП4\obj\Debug\ИЗВП4.Form1.resources
+C:\Users\crash\source\repos\ИЗВП4\obj\Debug\ИЗВП4.Properties.Resources.resources
+C:\Users\crash\source\repos\ИЗВП4\obj\Debug\ИЗВП4.csproj.GenerateResource.cache
+C:\Users\crash\source\repos\ИЗВП4\obj\Debug\ИЗВП4.csproj.CoreCompileInputs.cache
+C:\Users\crash\source\repos\ИЗВП4\obj\Debug\ИЗВП4.exe
+C:\Users\crash\source\repos\ИЗВП4\obj\Debug\ИЗВП4.pdb
+C:\Users\crash\source\repos\ИЗВП4\bin\Debug\System.Data.OleDb.dll
+C:\Users\crash\source\repos\ИЗВП4\bin\Debug\System.Data.OleDb.xml
+C:\Users\crash\source\repos\ИЗВП4\obj\Debug\ИЗВП4.csproj.CopyComplete
+C:\Users\crash\source\repos\ИЗВП4\obj\Debug\ИЗВП4.SpecForm.resources
+C:\Users\crash\source\repos\ИЗВП4\obj\Debug\ИЗВП4.DoctorForm.resources
